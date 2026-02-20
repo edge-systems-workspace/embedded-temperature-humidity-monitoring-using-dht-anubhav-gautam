@@ -26,5 +26,4 @@ void loop() {
     Serial.print(temperature);
     Serial.println(" *C");
     delay(50);
-
 }
